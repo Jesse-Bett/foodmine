@@ -1,19 +1,31 @@
-# Foodmine
+ <h1 align="center"> Foodmine</h1> 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.2.
 
-## Development server
+## Description
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+This is the Front-end for a food ordering web app using Angular.
 
-## Code scaffolding
+## Installation
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Clone the project.    
+```bash 
+$ git clone  https://github.com/Jesse-Bett/foodmine.git
+```  
 
-## Build
+- Install all dependencies.
+```bash
+$ npm i
+```
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Running the app
 
+- Starting the server.
+
+```bash
+
+$ ng serve
+```
 ## Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
@@ -22,6 +34,29 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Screenshots.
+
+- Home Page.
+
+
+
+ ![Home Page](https://github.com/Jesse-Bett/foodmine/assets/40341693/27f787db-323f-4676-b6f8-8f6fe1a420af)
+
+
+
+
+- Food page.
+
+
+
+![Food Page](https://github.com/Jesse-Bett/foodmine/assets/40341693/87d21d8d-30aa-4ecf-9706-ae00419fd4c3)
+
+
+
+
+ - Cart Page.
+
+
+
+![Cart Page](https://github.com/Jesse-Bett/foodmine/assets/40341693/2b86c65a-097d-481c-b492-9947714dd7aa)
